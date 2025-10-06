@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-dotenv
+pandas
+PyMuPDF
+streamlit
+streamlit-lottie
+requests
+openai
+google-generativeai
+langchain-community
+numpy
+faiss-cpu
