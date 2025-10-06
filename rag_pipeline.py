@@ -4,7 +4,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.docstore.document import Document
 import numpy as np
 
-GEMINI_API_KEY = "AIzaSyAwFoFbeJ7Nh5mlSCz_TeWAUforAA_h2Dc"
+
 genai.configure(api_key=GEMINI_API_KEY)
 
 def get_gemini_embedding(text):
